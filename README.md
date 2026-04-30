@@ -126,10 +126,8 @@ From project outputs:
 
 ---
 
-## 7) Final Deliverables in This Workspace
+## 7) Final Deliverable in This Workspace
 
-- Paper source: `sarf_acl_report.tex`
-- Compiled paper: `sarf_acl_report.pdf`
 - Main generated artifacts: `final_sarf_paper_outputs/`
 
 ---
@@ -141,8 +139,4 @@ From project outputs:
 - **Empty plots/tables**: ensure earlier training/evaluation cells were executed successfully before analysis cells.
 - **Inconsistent rollout outputs**: rerun rollout cells in one pass after model reload to avoid stale cache/state.
 
----
 
-If you want, this README can also be split into:
-- a short user-facing README, and
-- a separate `docs/technical_pipeline.md` with deeper implementation detail.
