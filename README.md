@@ -97,7 +97,4 @@ This ordering matches how the evidence is layered: **quantitative structural att
 ---
 
 ## Report artifacts in this workspace
-
-- LaTeX source: `sarf_acl_report.tex` (and an alternate build `sarf_acl_report_final.tex` if present)
-- Compiled PDFs: `sarf_acl_report.pdf`, `sarf_acl_report_final.pdf`
 - Generated figures/tables folders (as produced by the notebooks): `final_sarf_paper_outputs/` and related export directories
